@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/weather"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal" 
+    android:layout_gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/tianqibtn1"
+        android:layout_width="400dip"
+        android:layout_height="200dip"
+        android:layout_centerVertical="true"
+        android:background="#00000000"
+        android:focusable="false" />
+ 
+    <ListView
+        android:id="@+id/provinceList"
+        android:layout_width="400dip"
+        android:layout_height="200dip"
+        android:layout_alignTop="@id/tianqibtn1"
+        android:layout_marginLeft="10dip"
+        android:background="@drawable/bg"
+        android:layout_toRightOf="@id/tianqibtn1"
+        android:cacheColorHint="#00000000"
+        android:drawSelectorOnTop="false"
+        android:fadingEdge="none"
+        android:divider="@null"
+        android:scrollbars="none"
+        android:listSelector="@drawable/xuankuang" />
+
+
+    <ListView
+        android:id="@+id/tianqilistview"
+        android:layout_width="400dip"
+        android:layout_height="200dip"
+        android:layout_alignTop="@id/tianqibtn1"
+        android:layout_marginLeft="10dip"
+        android:background="@drawable/bg"
+        android:layout_toRightOf="@id/provinceList"
+        android:cacheColorHint="#00000000"
+        android:fadingEdge="none"
+        android:drawSelectorOnTop="false"
+        android:divider="@null"
+        android:scrollbars="none"
+        android:listSelector="@drawable/xuankuang" />
+
+    <RelativeLayout
+        android:id="@+id/tianqiRe1"
+        android:layout_width="400dip"
+        android:layout_height="200dip"
+        android:layout_centerVertical="true"
+        android:background="@drawable/bg"
+        android:focusable="false" >
+
+        <ImageView
+            android:id="@+id/tianqiimage1"
+            android:layout_width="100dip"
+            android:layout_height="100dip"
+            android:layout_marginTop="40dip"
+            android:layout_marginLeft="60dip"
+            android:layout_marginBottom="0dip"
+            android:layout_marginRight="40dip"
+             />
+
+        <TextView
+            android:id="@+id/tianqiweather"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tianqiimage1"
+            android:layout_marginLeft="60dip"
+            android:text="雷阵雨"
+            android:gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            android:textSize="30dip" />
+
+        <TextView
+            android:id="@+id/tianqicity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dip"
+            android:layout_toRightOf="@id/tianqiimage1"
+            android:text="深圳"
+            android:gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            android:textSize="35dip" />
+        <ImageView 
+            android:layout_width="50dip"
+            android:layout_height="60dip"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="40dip"
+            android:layout_toRightOf="@id/tianqicity"
+            android:background="@drawable/weather_dingwei"
+            />
+ <TextView
+            android:id="@+id/tianqisymbol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="20dip"
+            android:layout_alignLeft="@id/tianqicity"
+            android:layout_below="@id/tianqicity"
+            android:text="26~"
+            android:gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            android:textSize="30dip" />
+        <TextView
+            android:id="@+id/tianqimax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tianqisymbol"
+            android:layout_below="@id/tianqicity"
+            android:layout_marginTop="20dip"
+            android:text="30"
+            android:gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            android:textSize="30dip" />
+
+       
+        <TextView 
+            android:id="@+id/tianqipm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tianqisymbol"
+            android:layout_toRightOf="@id/tianqiweather"
+            android:text="空气质量:"
+            android:layout_marginTop="10dip"
+            android:layout_alignLeft="@id/tianqicity"
+            android:textColor="#FFFFFF"
+            android:textSize="30dip"
+            />
+        <ImageView
+            android:id="@+id/pmimv"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_toRightOf="@id/tianqipm"
+            
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/pm_you"
+            android:layout_alignTop="@id/tianqipm"
+            />
+    </RelativeLayout>
+
+  
+
+</RelativeLayout>

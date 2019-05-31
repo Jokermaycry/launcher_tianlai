@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="1130dip"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center" >
+
+<GridView
+    android:id="@+id/zhibo_gridview"
+    android:layout_width="864dip"
+    android:layout_height="440dip"
+    android:layout_alignParentTop="true"
+    android:animationCache="true"
+    android:background="@android:color/transparent"
+    android:cacheColorHint="@android:color/transparent"
+    android:fastScrollEnabled="true"
+    android:listSelector="@drawable/zhanshi_item"
+    android:numColumns="3"
+    android:scrollbars="none" />
+ 
+ <ImageView 
+     android:id="@+id/zhibo_zhangshi"
+     android:layout_width="280dip"
+     android:layout_height="430dip"
+     android:layout_marginTop="5dip"
+    android:layout_alignParentTop="true"
+     android:text="展示"
+     android:layout_toRightOf="@+id/zhibo_gridview"
+     />
+</RelativeLayout>

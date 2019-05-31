@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:id="@+id/HotpotActivityLayout"
+    >
+<ImageView
+    android:id="@+id/redian_item_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shezhi_zuo_logo" 
+    android:layout_marginLeft="40dip"
+    android:layout_marginTop="20dip"  
+    />  
+<TextView 
+    android:id="@+id/redian_item_text"
+    android:layout_width="150dip"
+    android:layout_height="45dip" 
+    android:textSize="35dip"
+    android:textStyle="italic"
+    android:layout_alignTop="@+id/redian_item_image"
+    android:layout_toRightOf="@+id/redian_item_image"
+    android:text="路由设置"
+    android:layout_marginLeft="5dip"
+    />
+<RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="620dip"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    >
+    <TextView
+        android:id="@+id/zhanghao_1"
+        android:layout_width="220dip"
+        android:layout_height="wrap_content"
+        android:text="热点名称:"
+        android:textSize="40dip"
+        android:layout_marginTop="60dip"
+         />
+
+    <EditText
+        android:id="@+id/zhanghao"
+        android:layout_width="500dip"
+        android:layout_height="50dip"
+        android:singleLine="true"
+        android:background="@drawable/shape"
+        android:maxLength="16"
+        android:paddingLeft="5dip"
+        android:layout_toRightOf="@+id/zhanghao_1"
+         android:textSize="40dip"
+         android:layout_marginTop="60dip"
+         android:textColor="@color/white"
+        />
+
+    <TextView
+        android:id="@+id/mima_1"
+        android:layout_width="220dip"
+        android:layout_height="wrap_content"
+        android:text="密码:"
+        android:textSize="40dip" 
+        android:layout_below="@+id/zhanghao_1"
+        android:layout_marginTop="30dip"
+        />
+
+    <EditText
+        android:id="@+id/mima"
+        android:layout_width="500dip"
+        android:layout_height="50dip"
+        android:singleLine="true"
+        android:background="@drawable/shape"
+        android:maxLength="16"
+        android:paddingLeft="5dip"
+        android:layout_below="@+id/zhanghao"
+        android:layout_toRightOf="@+id/mima_1"
+        android:textSize="40dip"
+        android:layout_marginTop="30dip"
+         android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/open_hotspot"
+        android:layout_width="160dip"
+        android:layout_height="wrap_content"
+        android:text="配置" 
+        android:textSize="40dip"
+        android:layout_below="@+id/mima_1"
+        android:layout_marginTop="50dip"
+        android:layout_marginLeft="140dip"
+        android:background="@drawable/top_scroll_bar_selected"
+        android:textColor="@color/white"
+        >
+    </Button>
+
+       <Button
+        android:id="@+id/hotspot_fanghui"
+        android:layout_width="160dip"
+        android:layout_height="wrap_content"
+        android:text="返回" 
+        android:textSize="40dip"
+        android:layout_below="@+id/mima_1"
+        android:layout_toRightOf="@+id/open_hotspot"
+        android:layout_marginTop="50dip"
+        android:layout_marginLeft="150dip"
+        android:background="@drawable/top_scroll_bar_selected"
+         android:textColor="@color/white"
+        >
+    </Button>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+	 	android:layout_height="wrap_content"
+	 	 >
+	 	 
+<RelativeLayout 
+        android:id="@+id/zhanshi_r"
+	    android:layout_width="280dip"  
+		android:layout_height="210dip"
+		android:layout_marginRight="5dip"
+		android:layout_marginTop="5dip"
+		android:layout_marginBottom="5dip"
+		android:layout_marginLeft="5dip"
+		 
+		>
+		
+	<ImageView 
+	    android:id="@+id/zhanshi_imgApp" 
+	    android:layout_width="120dip"
+		android:layout_height="100dip" 
+		android:layout_centerInParent="true"
+		>
+	</ImageView>
+	
+
+		
+		<TextView 
+		    android:id="@+id/zhanshi_tvLabel" 
+		    android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:text="">
+		</TextView>
+		
+		<TextView 
+		    android:id="@+id/zhanshi_tvAppLabel" 
+		    android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dip" 
+			android:text="Label" 
+			android:textColor="#ffffff"
+			android:textSize="20dip"
+			android:layout_below="@+id/zhanshi_imgApp"
+			android:layout_centerHorizontal="true"
+			android:ellipsize="marquee"
+			android:singleLine="true"
+			android:marqueeRepeatLimit="marquee_forever"
+			>
+		    
+		</TextView>
+
+	</RelativeLayout>
+	
+</LinearLayout>

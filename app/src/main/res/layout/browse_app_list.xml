@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/zhiboActivitylayout">
+	
+
+		<ImageView
+		android:id="@+id/hengfu"
+		android:layout_width="210dip"
+		android:layout_height="70dip"
+		android:layout_marginTop="5dip"
+		android:layout_marginBottom="5dip"
+    	android:layout_centerHorizontal="true"
+		/>
+
+			<GridView
+			android:id="@+id/grid_add_apk_zhibo"
+			android:layout_width="1000dip"
+			android:layout_height="520dip"
+			android:gravity="center"
+			android:numColumns="5"
+			android:listSelector="@drawable/list_item_z"
+			android:layout_centerInParent="true"
+		/>
+		
+		<ImageButton
+			android:id="@+id/home_result"
+			android:layout_width="80dip"
+			android:layout_height="80dip"
+			android:layout_marginBottom="5dip"
+	    	android:layout_alignParentBottom="true"
+	    	android:layout_centerHorizontal="true"
+	    	android:background="@drawable/home_selector"
+		/>
+
+
+
+	
+
+		<GridView
+			android:id="@+id/grid_add_a_apk_zhibo"
+			android:layout_width="800dip"
+			android:layout_height="520dip"
+			android:gravity="center"
+			android:numColumns="4"
+			android:listSelector="@drawable/list_item_z"
+			android:layout_centerInParent="true"
+			android:visibility="gone"
+			android:layout_marginTop="20dip"
+		/>	
+	
+	 
+	
+	
+</RelativeLayout>

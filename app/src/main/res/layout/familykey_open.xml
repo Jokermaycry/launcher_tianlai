@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fal_r"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+     >
+    
+    <RelativeLayout 
+    android:id="@+id/welcome_key"
+    android:layout_width="fill_parent"
+    android:layout_height="620dip"
+    android:background="@drawable/shezhi_back"
+    android:layout_centerInParent="true"
+    >
+    <RelativeLayout 
+        android:id="@+id/unlock_r"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     android:layout_centerInParent="true"
+    >
+        <TextView
+        android:id="@+id/key_info_mima"
+        android:layout_width="wrap_content"
+        android:layout_height="60dip"
+        android:layout_marginTop="40dip"
+        android:gravity="center_vertical"
+        android:text="解锁密码"
+        android:textSize="40dip"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+         />         
+         <LinearLayout 
+        android:id="@+id/welcome_l2" 
+       android:layout_width="wrap_content"
+        android:layout_height="60dip"
+        android:layout_below="@+id/key_info_mima" 
+         android:layout_marginTop="30dip"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        > 
+         <EditText
+        android:id="@+id/wfamily_key_mima"
+          android:layout_width="350dip"
+        android:layout_height="45dip"
+        android:layout_marginLeft="10dip"
+        android:textSize="40dip"
+        android:textColor="@color/white"
+        android:paddingLeft="5dip"
+        android:maxLength="10"
+        android:background="@drawable/shape"
+         />
+        
+        
+        </LinearLayout>
+         <Button
+        android:id="@+id/but_ok"
+        android:layout_width="160dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="确定"
+        android:textSize="40dip"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/welcome_l2"
+        android:background="@drawable/top_scroll_bar_selected"
+         /> 
+               <TextView
+             android:id="@+id/key_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="60dip"
+        android:layout_marginTop="20dip"
+        android:gravity="center_vertical"
+        android:text="请输入遥控器数字键做为密码组合"
+        android:textSize="30dip"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/but_ok"
+         /> 
+        
+                 </RelativeLayout>
+             
+</RelativeLayout>
+
+</LinearLayout>

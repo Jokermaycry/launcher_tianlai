@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center"
+    android:background="@color/blue"
+    >
+     <Button
+        android:id="@+id/whichpath_sd"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        android:text="@string/sd"
+        android:textColor="@color/white"
+        android:background="@drawable/button_item_selector"
+         />
+  <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/whichpath_external_sd"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+         android:textColor="@color/white"
+        android:text="@string/external_sd"
+         android:background="@drawable/button_item_selector"
+         />
+     <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+      android:background="@drawable/music_item_x_c"
+      />
+      <Button
+        android:id="@+id/whichpath_usb"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+         android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/usb" />
+        <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+      android:background="@drawable/music_item_x_c"
+      />
+       
+
+</LinearLayout>

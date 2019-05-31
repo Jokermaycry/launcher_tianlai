@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/systemsetLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="45dip"
+        android:layout_marginRight="10dip"
+         >
+       <ImageView
+            android:id="@+id/scoll_set_layout"
+            android:layout_width="162dip"
+            android:layout_height="295dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" />
+        <!-- 网络设置 -->
+
+        <FrameLayout
+            android:id="@+id/first_net_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_marginTop="42dip"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/wifiredian"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_wangluoshezhi_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="232dip"
+                android:text="@string/wangluoshezhiText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <!-- 用户中心 -->
+
+        <FrameLayout
+            android:id="@+id/second_user_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/first_net_set_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/first_net_set_layout"
+            android:background="@drawable/wifiap"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_yonghuzhongxin_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="232dip"
+                android:text="@string/yonghuzhongxinText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+        <!-- 更多设置 -->
+
+        <FrameLayout
+            android:id="@+id/fourth_duoping_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/second_user_set_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/second_user_set_layout"
+            android:background="@drawable/duopinghuodong"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_duopinghuodong_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="232dip"
+                android:text="@string/duopinghudongText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <!-- 天气修改 -->
+
+        <FrameLayout
+            android:id="@+id/fifth_file_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/fourth_duoping_set_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/fourth_duoping_set_layout"
+            android:background="@drawable/benditianqi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_tianqixiugai_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="232dip"
+                android:text="@string/tianqixiugaiText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+         <ImageView
+            android:id="@+id/scoll_setxiao_layout"
+            android:layout_width="162dip"
+            android:layout_height="144dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" 
+            />
+        <!-- 更多设置 -->
+         <FrameLayout
+            android:id="@+id/third_more_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="144dip"
+            android:layout_alignTop="@+id/fifth_file_set_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/fifth_file_set_layout"
+            android:background="@drawable/gengduoshezhi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_gengduoshezhi_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="88dip"
+                android:text="@string/gengduoshezhiText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+        <!-- 升级中心 -->
+        <FrameLayout
+            android:id="@+id/seventh_update_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="144dip"
+           
+           
+            android:layout_toRightOf="@+id/fifth_file_set_layout"
+             android:layout_marginLeft="12dip"
+             android:layout_below="@+id/third_more_set_layout"
+            android:background="@drawable/zaixianshengji"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_shengjizhongxin_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="88dip"
+                android:text="@string/shengjizhongxinText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+        
+        
+        <!-- 一键清理 -->
+        
+        <FrameLayout
+            android:id="@+id/sixed_clean_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="144dip"
+            android:layout_alignTop="@+id/third_more_set_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/third_more_set_layout"
+            android:background="@drawable/yijianqingli"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_yijianqingli_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="88dip"
+                android:text="@string/yijianqingliText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+        
+        <!-- 系统重启 -->
+         <FrameLayout
+            android:id="@+id/eighth_restart_set_layout"
+            android:layout_width="144dip"
+            android:layout_height="144dip"
+           
+           
+            android:layout_toRightOf="@+id/third_more_set_layout"
+             android:layout_marginLeft="12dip"
+             android:layout_below="@+id/sixed_clean_set_layout"
+            android:background="@drawable/xitongchongqi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/shezhi_xitongchongqi_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="88dip"
+                android:text="@string/xitongchongqiText"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+        
+       </RelativeLayout>
+
+
+</RelativeLayout>

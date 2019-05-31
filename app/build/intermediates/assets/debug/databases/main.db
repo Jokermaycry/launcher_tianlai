@@ -1,0 +1,30 @@
+/*
+Navicat SQLite Data Transfer
+
+Source Server         : cswdata
+Source Server Version : 20817
+Source Host           : localhost:0
+
+Target Server Type    : SQLite
+Target Server Version : 20817
+File Encoding         : 65001
+
+Date: 2014-01-03 17:42:16
+*/
+
+
+-- ----------------------------
+-- Table structure for "but_info"
+-- ----------------------------
+DROP TABLE "but_info";
+CREATE TABLE "but_info" (
+"id"  INTEGER,
+"but_name"  TEXT(30)
+);
+
+-- ----------------------------
+-- Records of but_info
+-- ----------------------------
+INSERT INTO "but_info" VALUES ('1', 'qwqw');
+INSERT INTO "but_info" VALUES ('2', '1qwqw');
+INSERT INTO "but_info" VALUES ('3', 'seee');

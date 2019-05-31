@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/qi_r"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    
+     <ImageView
+        android:id="@+id/qi_item_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dip"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/shezhi_zuo_logo" />
+
+    <TextView
+        android:id="@+id/qi_item_text"
+        android:layout_width="150dip"
+        android:layout_height="45dip"
+        android:text="启动设置"
+        android:layout_alignTop="@+id/qi_item_image"
+        android:layout_toRightOf="@+id/qi_item_image"
+        android:textSize="35dip"
+        android:textStyle="italic" />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="应用将在下一次开机时直接开启"
+        android:textColor="#aaaaaa"
+        android:layout_toRightOf="@id/qi_item_text"
+        android:layout_alignBottom="@id/qi_item_text"
+        android:layout_marginLeft="10dip"
+        android:textSize="25dip"
+        />
+    
+    <RelativeLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+ <!-- @+id/qilin1这个改了 -->
+    <LinearLayout
+        android:id="@+id/qilin1"
+        android:layout_width="300dip"
+        android:layout_height="200dip"
+        android:background="@drawable/tianjia"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+    <!-- @+id/qiimv1这个改了 -->
+    <ImageView 
+        android:id="@+id/qiimv1"
+        android:layout_width="120dip"
+        android:layout_height="120dip"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dip"
+        android:visibility="gone"
+        />
+    <TextView 
+        android:id="@+id/qitext1"
+        android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:textColor="#FFFFFF"
+       android:textSize="25dip"
+       android:layout_marginTop="10dip"
+        />
+     </LinearLayout>
+     <LinearLayout 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:layout_centerHorizontal="true"
+         android:layout_below="@id/qilin1"
+         android:layout_marginTop="20dip">
+    <Button 
+        android:id="@+id/qibtn1"
+        android:layout_width="400dip"
+        android:layout_height="70dip"
+        android:text="添加启动项"
+        android:textColor="#FFFFFF"
+        android:textSize="20dip"
+        android:background="@drawable/wenben_selector"
+        />
+    <Button 
+        android:id="@+id/qibtn2"
+        android:layout_width="400dip"
+        android:layout_height="70dip"
+        android:layout_marginTop="20dip"
+        android:text="删除启动项"
+        android:textColor="#FFFFFF"
+        android:textSize="20dip"
+        android:background="@drawable/wenben_selector"
+        />
+</LinearLayout>
+</RelativeLayout>
+</RelativeLayout>

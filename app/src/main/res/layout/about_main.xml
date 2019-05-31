@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity" >
+<ImageView 
+    android:id="@+id/about_item_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shezhi_zuo_logo"
+    android:layout_marginLeft="40dip"
+    android:layout_marginTop="20dip"
+    />
+<TextView 
+    android:id="@+id/about_item_text"
+    android:layout_width="150dip"
+    android:layout_height="45dip"
+    android:textSize="35dip"
+    android:textStyle="italic"
+    android:layout_alignTop="@+id/about_item_image"
+    android:layout_toRightOf="@+id/about_item_image"
+    android:text="关于我们"
+    />
+<RelativeLayout 
+    android:layout_width="1280dip"
+    android:layout_height="620dip"
+    android:background="@drawable/shezhi_back"
+    android:layout_centerInParent="true"
+    >
+    <TextView 
+        android:id="@+id/about_item_title"
+        android:layout_width="960dip"
+        android:layout_height="60dip"
+        android:textSize="30dip"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="160dip"
+        android:background="@drawable/shezhi_item_back"
+        android:layout_marginLeft="163dip"
+        android:text="关于我们"
+        />
+     <TextView 
+        android:id="@+id/about_item_xinxi"
+        android:layout_width="960dip"
+        android:layout_height="316dip"
+        android:textSize="30dip"
+        android:gravity="left"
+        android:background="@drawable/shezhi_item_back"
+        android:layout_marginLeft="163dip"
+        android:layout_below="@+id/about_item_title"
+        android:text="关于我们"
+        />
+     <Button
+        android:id="@+id/but_about_shiyong"
+        android:layout_width="160dip"
+        android:layout_height="60dip"
+        android:layout_below="@+id/about_item_xinxi"
+        android:background="@drawable/wifi_liangjie"
+        android:layout_marginLeft="450dip"
+        android:layout_marginTop="10dip"
+        android:text="试用"
+        android:textSize="40dip"
+         />
+     <Button
+        android:id="@+id/but_about_zhifu"
+        android:layout_width="160dip"
+        android:layout_height="60dip"
+        android:layout_below="@+id/about_item_xinxi"
+        android:background="@drawable/wifi_liangjie"
+        android:layout_marginLeft="70dip"
+        android:text="支付"
+        android:textSize="40dip"
+        android:layout_alignTop="@+id/but_about_shiyong"
+        android:layout_toRightOf="@+id/but_about_shiyong"
+        
+         />
+</RelativeLayout>
+    
+
+</RelativeLayout>

@@ -1,0 +1,3034 @@
+[
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_seekbar_background.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_seekbar_background.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_maintianlai.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\maintianlai.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_out_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\out_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_fade_in.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\splash_fade_in.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_volemu_open2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_volemu_open2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_pingbao_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_pingbao_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_fade_in.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\activity_fade_in.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_frame_animation.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\frame_animation.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_tp_down_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_tp_down_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_klok_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_klok_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_music_bg_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_music_bg_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_12.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_12.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_yinyuan.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_yinyuan.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_one_clean_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\one_clean_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_3.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_3.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallpaper_1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wallpaper_1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_left_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_left_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_music_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\music_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_03.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_03.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_dianbo_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\dianbo_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_add_app_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_add_app_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_right_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_right_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_turn_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_turn_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_up_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_up_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_btn_sc.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_sc.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_activity_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_item_anim_sider_3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\item_anim_sider_3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_vertical_add_press.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_vertical_add_press.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_item_foot.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\item_foot.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_10.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_10.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallpaper_1_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_1_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_item_x_c1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_item_x_c1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_goback0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_goback0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_seekbar_jindudian1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_seekbar_jindudian1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shape.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\shape.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vertical_reduce.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\vertical_reduce.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_home02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_home02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_apk_listview.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\apk_listview.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\movie_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_tianqi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\tianqi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_08.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_08.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_hdmisc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_hdmisc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_right_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_right_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wodedianbo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wodedianbo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_05.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_05.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_grid_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\grid_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_out_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\out_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_5.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_5.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_duoyun1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_duoyun1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_display_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\display_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_movie_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\movie_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_touming_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\touming_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_klok_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\klok_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kuaijie_app_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\kuaijie_app_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_in_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\in_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi_item_back.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shezhi_item_back.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_fade_in.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\logo_fade_in.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_wanglu_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\wanglu_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wifi_signal_4.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_wifi_signal_4.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wanpan.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wanpan.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_item_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\item_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhongyi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhongyi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_app_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\phone_app_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_all_app_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\all_app_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wifi_signal_2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_wifi_signal_2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_city_manager.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\menu_city_manager.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbarbtn_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\seekbarbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_music_fragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\music_fragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_out_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\out_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_music_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\music_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_random1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_random1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_duopinghuodong.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\duopinghuodong.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_qi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\qi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_pause_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_pause_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_06.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_06.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_movie_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\movie_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_down_open.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_down_open.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_bdyy_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_bdyy_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_right.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_right.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_vertical_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_vertical_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_out_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\out_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_horizontal_add.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\horizontal_add.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_scroll_bar_selected_taoming.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_scroll_bar_selected_taoming.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow_layout.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\popupwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_07.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_07.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_16.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_16.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_go4.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_go4.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_music_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\music_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\add_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_weathericon_condition_01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\weathericon_condition_01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhibo_item_3_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhibo_item_3_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_qunbujidu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_qunbujidu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_netfm.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_netfm.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_manager_selectoe.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_manager_selectoe.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_15.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_15.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenben1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wenben1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_liebiao_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_liebiao_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_taoming_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\taoming_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_simplify_bg_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\simplify_bg_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_settings_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_settings_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_left_pressed.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_left_pressed.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenben.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wenben.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_volume_close2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_volume_close2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_apple_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\apple_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_preference.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\custom_preference.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_apple_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\apple_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_big.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_big.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_movie.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\movie.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_09.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_09.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_yinxiao.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_yinxiao.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_fragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\music_fragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youxi_add_app_iamge.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\youxi_add_app_iamge.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dongman.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\dongman.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image_lv.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image_lv.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youxi_tuijian_app_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\youxi_tuijian_app_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_familykey_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\familykey_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_system_upgrade.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\system_upgrade.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_sha.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_sha.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_top_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_top_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_singlecycle_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_singlecycle_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_start_app_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\start_app_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pm_you.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pm_you.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\menu_configure_menu.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\menu\\configure_menu.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_mobilehelperactivity.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\mobilehelperactivity.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_enable_2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_enable_2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_btn_xz.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_xz.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenben_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wenben_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_klok_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\klok_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_up.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_up.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_vertical_reduce_press.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_vertical_reduce_press.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kuang_style.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\kuang_style.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_14.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_14.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\photo_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\settings_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dianbo_bofanglishi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\dianbo_bofanglishi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\music_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_goback2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_goback2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_singlecycle0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_singlecycle0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pingbao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pingbao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_horizontal_add_press.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_horizontal_add_press.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_family_open.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\family_open.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_app_bg_sel.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_app_bg_sel.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_out_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\out_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dongmandaoying.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\dongmandaoying.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_lb_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_lb_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_up_pressed.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_up_pressed.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_mobilehelperactivity.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\mobilehelperactivity.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_familykey_open.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\familykey_open.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_benditianqi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\benditianqi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_update.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\menu_update.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_random_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_random_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_popwindow.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\popwindow.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_wallpaper.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\wallpaper.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_file_manager.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\file_manager.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_pause_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_lefttoright.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\in_lefttoright.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tuijian_app_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\tuijian_app_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_04.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_04.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_zdbh_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\zdbh_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_all_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\all_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_musicplay_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\musicplay_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_blues.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\progress_blues.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_leibiao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_leibiao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_switch.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_switch.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_list_slelector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_list_slelector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn1.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn1.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_musiclist.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\musiclist.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_all_app_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\all_app_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_app_iamge.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_app_iamge.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_shunxu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_shunxu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_music_player.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\selector_music_player.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_mobilehelperactivity.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\mobilehelperactivity.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shezhi_item_foces_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\shezhi_item_foces_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_go1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_go1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_market_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\market_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_appstore.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_appstore.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dianshiju.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\dianshiju.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\browse_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_leiyu.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_leiyu.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_03.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_03.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clean.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\clean.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenjianguanliqi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wenjianguanliqi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_quanbuyingyong_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\quanbuyingyong_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tupian.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\tupian.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_tool02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_tool02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_enable_3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_enable_3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_showset_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\showset_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_item_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_item_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_preference_hdmi_out.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\custom_preference_hdmi_out.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ok.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_musicitem.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\musicitem.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_settingsfragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\settingsfragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_channel_item_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\channel_item_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_player_close.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_player_close.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_photo_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_photo_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xuankuang1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\xuankuang1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_system_upgrade_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_system_upgrade_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_dianbo_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\dianbo_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_family_mima_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\family_mima_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallpaper_3_00.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_3_00.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_one_clean.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\one_clean.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_wangsu_test.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\wangsu_test.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_app.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_app.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_dingwei.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_dingwei.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\raw_page_change.mp3.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\raw\\page_change.mp3"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_05.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_05.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_time_on_off_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\time_on_off_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\raw_db_weather.db.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\raw\\db_weather.db"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_jhq1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_jhq1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_music_player.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\bg_music_player.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_left.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_left.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_mobilehelper.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_mobilehelper.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_enter.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_music_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\music_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_home.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_home.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_xiezai_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\xiezai_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_linelayout_app.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\linelayout_app.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_klok_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\klok_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_btn_fx.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_fx.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_go3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_go3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi_back.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shezhi_back.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_layout.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_app_list.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\browse_app_list.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallpaper_5_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_5_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_family_close.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\family_close.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallpaper_6_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_6_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_qp.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_qp.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_fade_out.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\splash_fade_out.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_jiaoyu_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\jiaoyu_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\add_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_del_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\del_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_wanglu_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\wanglu_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_15.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_15.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_title_left.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_title_left.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_6.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_6.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_system_on_off.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\system_on_off.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\home_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_shezhi_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\shezhi_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_klok_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\klok_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_sysreboot_fucos.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_sysreboot_fucos.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wangsu01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wangsu01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_klok_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\klok_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_user_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\user_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\xml_weather_widget.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\xml\\weather_widget.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_disable.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_disable.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_liangjie.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_liangjie.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_05.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_05.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fm.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\fm.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_system_on_off_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\system_on_off_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_out_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\out_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_exit_bg_hl.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\exit_bg_hl.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_random0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_random0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_apps_list.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\apps_list.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pm_cha.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pm_cha.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_16.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_16.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_yu.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_yu.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_bdyy_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_bdyy_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_right.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_right.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_all_app_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_all_app_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hdmi_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\hdmi_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fm_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\fm_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_local_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\local_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\add_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_appwidget_settings_wifi_off_holo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\ic_appwidget_settings_wifi_off_holo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_zhibo_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\zhibo_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mobile_helper_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\mobile_helper_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_sys_xinxi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\sys_xinxi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_time_on_off_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_time_on_off_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_app_item_quanbuyingyong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\browse_app_item_quanbuyingyong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_04.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_04.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shape_divider_h.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\shape_divider_h.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vertical_add.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\vertical_add.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_movie_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\movie_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_14.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_14.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_system_upgrade_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\system_upgrade_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_information.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_information.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_rili_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_rili_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_huaweiwangpan.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\huaweiwangpan.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_movie_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\movie_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_youxi_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\youxi_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_apps_browse_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\apps_browse_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_isplaying.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\isplaying.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_17.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_17.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome2.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\welcome2.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_xiaotu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_xiaotu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_go2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_go2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_app_item_taoming.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_app_item_taoming.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_music_animation.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\music_animation.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhibo_item_1_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhibo_item_1_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_play_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_play_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\raw_move_bottom.mp3.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\raw\\move_bottom.mp3"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhibo_item_4_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhibo_item_4_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_tdqp.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_tdqp.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_horizontal_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_horizontal_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wangsu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wangsu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pagetrue.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pagetrue.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_duoyun.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_duoyun.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_list_item_layout.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\music_list_item_layout.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_movie_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_movie_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_liebiao_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_liebiao_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_jjbf4.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_jjbf4.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_gps.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\gps.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_yu1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_yu1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youxi_app_item_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\youxi_app_item_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_jiaoyu_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\jiaoyu_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hdmi_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\hdmi_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_shezhi_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\shezhi_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_sc.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_sc.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_out_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\out_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hdmi_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\hdmi_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image_taoming.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image_taoming.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\raw_move_left.mp3.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\raw\\move_left.mp3"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_zhibo_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\zhibo_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferencesii.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\xml\\preferencesii.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_04.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_04.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_local_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\local_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_bottom_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_bottom_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_movie_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\movie_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_09.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_09.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_tp_up_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_tp_up_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_title_right.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_title_right.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_tool.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_tool.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xitongchongqi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\xitongchongqi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_hdmi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_hdmi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_app_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\add_app_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_item_anim_sider_2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\item_anim_sider_2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_main_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_appwidget_settings_wifi_off_holo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_appwidget_settings_wifi_off_holo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_suiji.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_suiji.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_app.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\start_app.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_jjbf3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_jjbf3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_singlecycle1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_singlecycle1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_bf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_android_market_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\android_market_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_linelayout_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\linelayout_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_jhq.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_jhq.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_goback1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_goback1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pingbao_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\pingbao_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yin_xiao_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\yin_xiao_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_klok_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\klok_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_transparent.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\shap_transparent.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_18.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_18.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\add_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_yin2.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_yin2.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_music_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\music_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_item.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\list_item.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_all_app_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\all_app_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_down.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_down.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_right_pressed.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_right_pressed.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_wysr_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_wysr_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_local_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\local_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_klok_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\klok_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_4.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_4.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_13.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_13.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_all_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\all_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_music_bg_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_music_bg_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_singer_photo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\singer_photo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file_manager_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\file_manager_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_grid_sel.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\grid_sel.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_saturation.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_saturation.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_pingbao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_pingbao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_sys_xinxi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\sys_xinxi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_app_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\all_app_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_up.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_up.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_youxi_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\youxi_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_showset_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\showset_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg2_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\bg2_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_junheng_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_junheng_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_remen_grid.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\remen_grid.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xuankuang.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\xuankuang.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_down.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_down.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_define_style.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\seekbar_define_style.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_del_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\del_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shadow_left_bottom_a.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shadow_left_bottom_a.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hdmi_2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\hdmi_2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_movie_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\movie_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_del_icon2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\del_icon2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_appstore01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_appstore01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wallpaper_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\wallpaper_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_youxian_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\youxian_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hdmi_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\hdmi_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_btn_gd.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_gd.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_mobileo_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\mobileo_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_down_pressed.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_down_pressed.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_down.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_down.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hdmi_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\hdmi_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hdmi_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\hdmi_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi_item_foces_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shezhi_item_foces_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_klok_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_klok_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_android_market_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_android_market_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_klok_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\klok_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn6.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn6.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_08.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_08.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sousu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\sousu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_horizontal_reduce_press.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_horizontal_reduce_press.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi_zuo_logo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shezhi_zuo_logo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_app_item_add.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\browse_app_item_add.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_seekbar_jindudian.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_seekbar_jindudian.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_system_on_off_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_system_on_off_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_liebiao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_liebiao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_start_app_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_start_app_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\all_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_music_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\music_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_password.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\set_password.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_in.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\in.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bai.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bai.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\about_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_city.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\set_city.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_connect_no.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\connect_no.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifiredian.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifiredian.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_08.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_08.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_down_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_down_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_settings.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_settings.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_bg_fouse.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\button_bg_fouse.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_15.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_15.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_fade_out.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\activity_fade_out.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_14.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_14.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shape.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shape.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_xue1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_xue1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hdmi_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\hdmi_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_down_close.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_down_close.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_tuijian.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_tuijian.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tianqi_touming.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\tianqi_touming.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_klok_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\klok_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_linelayout_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\linelayout_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wanpan_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\wanpan_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_hdmisc_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_hdmisc_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_horizontal_reduce.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\horizontal_reduce.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_clicked_locol_movie.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_clicked_locol_movie.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_bottom_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_bottom_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_movie_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\movie_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_tool_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_tool_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_main.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg_main.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_06.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_06.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mynetwork2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\mynetwork2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\add_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_anzhuangbao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\anzhuangbao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_jjbf1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_jjbf1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_pause.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_pause.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_item_mid.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\item_mid.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_sysreboot.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_sysreboot.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_lb_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_lb_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yingyue.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\yingyue.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_widget_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\widget_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_go5.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_go5.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_music_fragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\music_fragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_wanpan_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_wanpan_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shezhi_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\shezhi_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wifi_signal_3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_wifi_signal_3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_17.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_17.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhanshi_item.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhanshi_item.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_11.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_11.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_tool01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_tool01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_volemu_open1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_volemu_open1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_left.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_left.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_tp_pause_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_tp_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_activity_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_youxian_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\youxian_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_out_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\out_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_scroll_bar_selected.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_scroll_bar_selected.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_klok_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\klok_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_pause_open.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_pause_open.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_apple_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\apple_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_07.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_07.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xue2.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\xue2.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_redian_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\redian_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_kuang2.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_kuang2.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_danqu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_danqu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_main_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_start12.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\start12.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gps3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\gps3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_weather.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\main_weather.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yin_xiao.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\yin_xiao.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_diy.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\menu_diy.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_up_close.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_up_close.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone_app.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\phone_app.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_gd.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_gd.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_liangguang.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\liangguang.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallpaper_4_00.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_4_00.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn2.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn2.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_sys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_sys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_allcycle1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_allcycle1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_play.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_play.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_music_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\music_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_down_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_down_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shezhi_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\shezhi_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_tianqi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\tianqi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_music_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\music_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_12.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_12.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifi_enable_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifi_enable_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_dianbo_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\dianbo_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gps3.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\gps3.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_home_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_home_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_left_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_left_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_title_on.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_title_on.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_volume_close_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_volume_close_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_music_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\music_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_13.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_13.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_showset_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\showset_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_movie_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\movie_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pagefalse.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pagefalse.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\user_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hdmi_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\hdmi_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_top_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_top_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_item_top.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\item_top.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_voice.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_voice.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_def_locol_movie.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\btn_def_locol_movie.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\add_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_fm_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_fm_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_up_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_up_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tianqi_touming_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\tianqi_touming_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_10.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_10.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wangsu_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wangsu_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_items.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\list_items.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_time_on_off.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\time_on_off.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dianying.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\dianying.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifiap.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wifiap.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_bg02.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\app_bg02.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_vertical_up.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_vertical_up.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\button_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fanhui.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\fanhui.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_volemu_open_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_volemu_open_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music_play_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_music_play_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_exit.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rili_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\rili_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_keyboard_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\keyboard_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_simplify_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\simplify_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_fx.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_fx.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_music.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_music.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gengduoshezhi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\gengduoshezhi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhibo_item_2_image.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zhibo_item_2_image.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wifi_signal_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\ic_wifi_signal_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_music_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\music_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_vertical_reduce.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_vertical_reduce.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_volume_close1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_volume_close1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zaixianshengji.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\zaixianshengji.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_xz_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_xz_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_allcycle0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_allcycle0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_phone_app_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_phone_app_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_appstore_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_appstore_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image_lv01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image_lv01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_music_player.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\fragment_music_player.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_shezhi_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\shezhi_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_icon.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_icon.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_10.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_10.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_13.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_13.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_goback_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_goback_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_zhibo_app_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\zhibo_app_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_tianqi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\tianqi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pm_liang.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\pm_liang.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_tianqing1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_tianqing1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screen_horizontal_add.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\screen_horizontal_add.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn3.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn3.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hdmi_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\hdmi_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_turn0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_turn0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_movie_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\movie_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_app_item_image_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\all_app_item_image_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_righttoleft.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\out_righttoleft.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_sys_xinxi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw720dp\\sys_xinxi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_out.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_appstore02.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_appstore02.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\xml_display_settings.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\xml\\display_settings.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_item_z.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\list_item_z.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_out_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\out_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_xys.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\btn_xys.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\home_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_tjyy_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_tjyy_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_browse_app_item_zhanshi.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\browse_app_item_zhanshi.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_pause_close.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_pause_close.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_movie_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\movie_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_gd_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_gd_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_seekbar_jindu.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_seekbar_jindu.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_one_clean_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_one_clean_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_dingshi.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_dingshi.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_item_x_c.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_item_x_c.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_07.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_07.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\add_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_item.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\list_item.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn5.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn5.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_duoyun3.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_duoyun3.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_station_turn1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_station_turn1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xing.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\xing.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_whichpath_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\whichpath_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_linelayout_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\linelayout_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_bflb.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_bflb.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_first_home01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\first_home01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_yin.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_yin.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_homefragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\homefragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_csw.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\csw.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wenjianqingli01.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\wenjianqingli01.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_gundong_jingdutiao.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\gundong_jingdutiao.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weathericon_condition_06.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weathericon_condition_06.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_btn4.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_btn4.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tianjia.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\tianjia.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_wysr_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_wysr_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi_focus.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shezhi_focus.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rili.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\rili.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sousuodaoying.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\sousuodaoying.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_player_selector.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\music_player_selector.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_photo.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\photo.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shiping.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\shiping.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_wu.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_wu.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_12.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_12.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weather_11.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\weather_11.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_09.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_09.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_softupdate_progress.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_top_bar.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\top_bar.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_user_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\user_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_first_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\first_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_shezhi_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout-sw480dp\\shezhi_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_market.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\android_market.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_preference_2_title.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\custom_preference_2_title.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_sc_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\btn_sc_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_anim_sider.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\anim_sider.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_liebiao_tp.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_liebiao_tp.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_out_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\out_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_app_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\add_app_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_title_center.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\top_title_center.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\tv.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_whichmodel_item.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\whichmodel_item.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_clicked.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\add_clicked.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_fx_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\btn_fx_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_up_open.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_up_open.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_apk_main.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\apk_main.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_sjbf.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\btn_sjbf.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_item_anim_sider_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\item_anim_sider_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg2.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bg2.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_in_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_in_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yijianqingli.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\yijianqingli.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_0.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-mdpi\\home_0.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_main_kong.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\user_main_kong.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_xz.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable\\btn_xz.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hdmi_def.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\hdmi_def.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_bg.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_weather_yin1.jpg.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\weather_yin1.jpg"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen_setting.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\screen_setting.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_checked_bg.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xhdpi\\checked_bg.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\layout_myappfragment.xml.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\layout\\myappfragment.xml"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bottom_tjyy_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-xxhdpi\\bottom_tjyy_1.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_weathericon_condition_11.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-ldpi\\weathericon_condition_11.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_player_open.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\music_player_open.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_hdmi_selector.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\img_hdmi_selector.png"
+    },
+    {
+        "merged": "E:\\wwm\\tianlai\\yahao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hdmi_1.png.flat",
+        "source": "E:\\wwm\\tianlai\\yahao\\app\\src\\main\\res\\drawable-hdpi\\hdmi_1.png"
+    }
+]

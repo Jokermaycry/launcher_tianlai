@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:gravity="center"
+    android:background="@drawable/youxian_bg"
+    >
+    
+    <TextView
+        android:id="@+id/hasDown"
+        android:layout_width="wrap_content"
+        android:layout_height="62dip"
+        android:textSize="50dip"
+        android:textColor="#ffffff"
+        />
+        <TextView
+        android:id="@+id/fileLength"
+        android:layout_width="wrap_content"
+        android:layout_height="62dip"
+        android:textSize="50dip"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/hasDown"
+        />
+        <TextView
+        android:id="@+id/speed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="26dip"
+         android:layout_below="@+id/fileLength"
+        android:textColor="#ffffff"
+        />
+        <TextView
+        android:id="@+id/percent"
+        android:layout_width="wrap_content"
+        android:layout_height="62dip"
+        android:textSize="50dip"
+        android:textColor="#ffffff"
+         android:layout_below="@+id/speed"
+        />
+</RelativeLayout>

@@ -1,0 +1,726 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35e223cf75171f952ceb109c795b4fe9\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:1-437:12
+	package
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.REORDER_TASKS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.CONNECTIVITY_INTERNAL
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:30:5-86
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:30:22-83
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:32:5-84
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:32:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:36:22-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:39:5-40:23
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:41:5-75
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:41:22-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:43:22-76
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:47:5-74
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:47:22-71
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:48:5-78
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:48:22-75
+uses-permission#android.permission.READ_FRAME_BUFFER
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:49:5-76
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:49:22-73
+uses-permission#android.permission.INJECT_EVENTS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:50:5-72
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:50:22-69
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:51:5-75
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:51:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:52:5-80
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:52:22-77
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:55:5-56:23
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:55:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:57:5-80
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:57:22-77
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:59:5-84
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:59:22-81
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:61:5-75
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:61:22-72
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:63:5-74
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:63:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:64:5-68
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:64:22-65
+application
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:66:5-435:19
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:69:9-41
+	android:persistent
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:71:9-34
+	android:icon
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:68:9-37
+	android:allowBackup
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:67:9-35
+	android:restoreNeedsApplication
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:70:9-48
+meta-data#BaiduMobAd_STAT_ID
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:75:9-77:42
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:77:13-39
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:76:13-46
+meta-data#BaiduMobAd_CHANNEL
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:79:9-81:44
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:81:13-41
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:80:13-46
+meta-data#BaiduMobAd_EXCEPTION_LOG
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:84:9-86:36
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:86:13-33
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:85:13-52
+meta-data#BaiduMobAd_SEND_STRATEGY
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:88:9-90:41
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:90:13-38
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:89:13-52
+meta-data#BaiduMobAd_ONLY_WIFI
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:94:9-96:37
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:96:13-34
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:95:13-48
+meta-data#BaiduMobAd_CELL_LOCATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:98:9-100:36
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:100:13-33
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:99:13-52
+meta-data#BaiduMobAd_GPS_LOCATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:102:9-104:36
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:104:13-33
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:103:13-51
+meta-data#BaiduMobAd_WIFI_LOCATION
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:106:9-108:36
+	android:value
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:108:13-33
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:107:13-52
+activity#com.tianlai.MainTianLai
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:110:9-123:20
+	android:launchMode
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:113:13-44
+	android:configChanges
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:112:13-95
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:114:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:111:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:116:13-122:29
+action#android.intent.action.MAIN
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:117:17-69
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:117:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:119:17-77
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:119:27-74
+category#android.intent.category.HOME
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:120:17-73
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:120:27-70
+category#android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:121:17-76
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:121:27-73
+activity#com.csw.csw_desktop_yahao.Welcome
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:124:9-128:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:126:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:127:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:125:13-61
+activity#com.weather.manager.MainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:129:9-132:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:131:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:130:13-60
+activity#com.wyf.xiezai.xiezaiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:133:9-136:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:135:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:134:13-57
+activity#com.example.system.duoping_MainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:137:9-141:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:139:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:140:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:138:13-67
+activity#com.example.system.sys_xinxi
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:142:9-146:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:144:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:145:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:143:13-56
+activity#com.wyf.redian.HotspotActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:147:9-151:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:149:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:150:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:148:13-58
+activity#com.weather.manager.SetCityActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:152:9-161:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:154:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:155:13-44
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:153:13-63
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:156:13-160:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:159:17-87
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:159:25-84
+activity#com.csw.apps.zhibo.ZhiboActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:162:9-166:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:164:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:165:13-71
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:163:13-60
+activity#com.example.apkfilejiazai.MainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:167:9-171:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:170:13-45
+	android:icon
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:169:13-58
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:168:13-66
+activity#com.wyf.setting.SettingTest
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:172:9-176:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:175:13-52
+	android:icon
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:174:13-58
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:173:13-55
+activity#com.wyf.allapp.MainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:177:9-180:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:179:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:178:13-55
+activity#com.wyf.allapp.ALLappActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:181:9-187:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:183:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:182:13-57
+intent-filter#com.wyf.allapp.ALLappActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:184:13-186:30
+action#com.wyf.allapp.ALLappActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:185:18-72
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:185:26-70
+activity#com.wyf.allapp.AddKJappActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:188:9-191:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:190:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:189:13-59
+activity#com.wyf.allapp.YouxiAppActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:192:9-195:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:194:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:193:13-59
+activity#com.wyf.allapp.XuexiAppActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:196:9-199:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:198:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:197:13-59
+activity#com.wyf.allapp.WangluActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:200:9-203:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:202:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:201:13-57
+activity#com.wyf.allapp.ZhiboAppActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:204:9-207:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:206:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:205:13-59
+activity#com.example.system.ShezhiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:208:9-215:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:210:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:209:13-61
+intent-filter#com.example.system.ShezhiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:212:14-214:30
+action#com.example.system.ShezhiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:213:18-76
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:213:26-74
+activity#com.loaddown.test.SpeedActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:216:9-220:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:218:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:219:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:217:13-59
+activity#com.wyf.wanglu.YouxianConnect
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:221:9-225:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:223:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:224:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:222:13-57
+activity#com.example.apk_activation.MainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:226:9-230:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:228:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:229:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:227:13-67
+activity#com.example.system.UserMainActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:231:9-235:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:233:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:234:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:232:13-63
+activity#com.example.system.AppleMainActivity_kong
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:237:9-241:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:239:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:240:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:238:13-69
+activity#com.example.system.UserMainActivity_kong
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:242:9-246:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:244:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:245:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:243:13-68
+activity#com.example.system.ShowSetActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:247:9-251:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:249:13-52
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:250:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:248:13-62
+activity#com.example.system.ShowSetActivityA20
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:252:9-256:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:254:13-52
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:255:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:253:13-65
+activity#com.example.apk_activation.aboutActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:257:9-261:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:259:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:260:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:258:13-68
+activity#com.example.system.qidongActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:262:9-266:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:264:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:265:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:263:13-61
+activity#com.example.system.qiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:267:9-274:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:269:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:270:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:268:13-57
+intent-filter#com.example.system.qiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:271:14-273:30
+action#com.example.system.qiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:272:18-72
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:272:26-70
+activity#com.wyf.launch.FirstMainUIActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:276:9-280:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:278:13-52
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:279:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:277:13-62
+activity#com.app.system.Bendi_keyActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:281:9-290:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:283:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:284:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:282:13-60
+intent-filter#android.intent.action.SINGLE_INSTANCE_BENDI+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:285:13-289:29
+action#android.intent.action.SINGLE_INSTANCE_BENDI
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:286:17-86
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:286:25-83
+activity#com.app.system.Zhibo_keyActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:291:9-300:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:293:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:294:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:292:13-60
+intent-filter#android.intent.action.SINGLE_INSTANCE_ZHIBO+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:295:13-299:29
+action#android.intent.action.SINGLE_INSTANCE_ZHIBO
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:296:17-86
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:296:25-83
+activity#com.app.system.Dianbo_keyActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:301:9-310:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:303:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:304:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:302:13-61
+intent-filter#android.intent.action.SINGLE_INSTANCE_DIANBO+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:305:13-309:29
+action#android.intent.action.SINGLE_INSTANCE_DIANBO
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:306:17-87
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:306:25-84
+activity#com.app.system.Huikan_keyActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:311:9-320:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:313:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:314:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:312:13-61
+intent-filter#android.intent.action.SINGLE_INSTANCE_HUIKAN+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:315:13-319:29
+action#android.intent.action.SINGLE_INSTANCE_HUIKAN
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:316:17-87
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:316:25-84
+activity#com.weather.manager.TianqiActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:321:9-323:63
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:323:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:322:13-62
+activity#com.example.system.WallpaperActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:324:9-326:63
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:326:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:325:13-64
+activity#com.example.system.FamilyKeyActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:327:9-331:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:329:13-52
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:330:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:328:13-64
+activity#com.example.system.UnlockActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:332:9-336:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:334:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:335:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:333:13-61
+activity#com.wyf.launch.SecondMainUIActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:337:9-341:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:339:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:340:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:338:13-63
+activity#com.example.system.MobileHelperActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:343:9-347:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:345:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:346:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:344:13-67
+activity#com.example.system.ShowSetActivity3288
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:349:9-352:25
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:350:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:351:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:349:19-72
+activity#com.example.system.ScreenScaleActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:353:9-356:25
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:354:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:355:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:353:19-72
+activity#com.wyf.allapp.MusicAppActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:358:9-361:25
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:359:13-45
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:360:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:358:19-65
+receiver#com.wyf.allapp.AppInstallReceiver
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:363:9-373:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:365:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:364:13-61
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED+android.intent.action.PACKAGE_REPLACED
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:366:13-372:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:367:17-78
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:367:25-75
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:368:17-81
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:368:25-78
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:369:17-80
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:369:25-77
+data
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:371:17-50
+	android:host
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:400:20-42
+	android:scheme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:371:23-47
+receiver#com.wyf.allapp.InfoReceiver
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:374:9-380:20
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:374:19-61
+intent-filter#android.intent.category.DEFAULT+com.test.intents.broadcast
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:375:13-379:29
+action#com.test.intents.broadcast
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:376:17-69
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:376:25-66
+receiver#com.csw.csw_desktop_yahao.CheckNetReceiver
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:384:9-388:20
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:384:19-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:385:13-387:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:386:17-78
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:386:25-76
+activity#com.csw.music.MusicListActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:389:9-125
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:389:19-66
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:389:67-113
+activity#com.wyf.allapp.StartappActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:390:9-125
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:390:66-113
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:390:19-65
+activity#com.cl.activity.ScreenScaleActivity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:391:9-129
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:391:70-117
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:391:19-69
+activity#com.cl.rkm_hdmi_display.hdmi_Activity
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:392:10-403:20
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:394:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:393:13-65
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:396:13-402:29
+action#android.intent.action.VIEW
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:397:18-70
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:397:26-67
+activity#com.csw.tp.activity.MusicplayAct
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:408:9-416:20
+	android:launchMode
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:410:13-44
+	android:theme
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:411:13-60
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:409:13-60
+intent-filter#android.intent.action.MUSICPLAY+android.intent.category.DEFAULT
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:412:13-415:29
+action#android.intent.action.MUSICPLAY
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:413:17-74
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:413:25-71
+service#com.csw.tp.cc_server.ServerService
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:417:10-420:19
+	android:exported
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:419:13-37
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:418:13-62
+receiver#com.csw.tp.util.AppInstallReceiver
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:421:9-431:20
+	android:label
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:423:13-45
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:422:13-62
+service#com.cl.service.AuxLineService
+ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:433:10-434:19
+	android:name
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml:433:19-63
+uses-sdk
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35e223cf75171f952ceb109c795b4fe9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35e223cf75171f952ceb109c795b4fe9\AndroidManifest.xml:20:5-43
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		ADDED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml
+		INJECTED from E:\wwm\tianlai\yahao\app\src\main\AndroidManifest.xml

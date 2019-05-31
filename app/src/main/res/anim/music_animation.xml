@@ -1,0 +1,13 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+	android:oneshot="false"
+	>
+	<!-- <item android:drawable="@drawable/music_search_drive_zd" android:duration="150" />
+	<item android:drawable="@drawable/music_search" android:duration="150" /> -->
+	<!-- <item android:drawable="@drawable/music_search_drive_guangqu" android:duration="150" /> -->
+	<item android:drawable="@drawable/music_go1" android:duration="150" />
+	<item android:drawable="@drawable/music_go2" android:duration="150" />
+	<item android:drawable="@drawable/music_go3" android:duration="150" />
+	<item android:drawable="@drawable/music_go4" android:duration="150" />
+	<item android:drawable="@drawable/music_go5" android:duration="150" />
+	
+</animation-list>

@@ -1,0 +1,52 @@
+-injars 'E:\wwm\tianlai\yahao\app\libs\android-support-v4.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\android_api_3_4.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\baidumapapi.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\commons-lang3-3.4.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\commons-logging-1.2.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\gson-1.7.1.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\httpclient-4.5.4.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\httpcore-4.4.8.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\libs\yahao_3128_5.1_framework_classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\35e223cf75171f952ceb109c795b4fe9\jars\classes.jar'(**.class)
+-injars 'E:\wwm\tianlai\yahao\app\build\intermediates\classes\debug'(**.class)
+-outjars 'E:\wwm\tianlai\yahao\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\28.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\wwm\tianlai\yahao\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at E:\wwm\tianlai\yahao\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:65
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

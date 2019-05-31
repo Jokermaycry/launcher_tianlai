@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:id="@+id/xinxi_r"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+      >
+    
+    <ImageView 
+    android:id="@+id/xinxi_item_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shezhi_zuo_logo"
+    android:layout_marginLeft="40dip"
+    android:layout_marginTop="20dip"
+    />
+<TextView 
+    android:id="@+id/xinxi_item_text"
+    android:layout_width="150dip"
+    android:layout_height="45dip"
+    android:textSize="35dip"
+    android:textStyle="italic"
+    android:layout_alignTop="@+id/xinxi_item_image"
+    android:layout_toRightOf="@+id/xinxi_item_image"
+    android:text="系统信息"
+    />
+<RelativeLayout 
+    android:layout_width="1280dip"
+    android:layout_height="620dip"
+    android:layout_centerInParent="true"
+    android:background="@drawable/shezhi_back"
+    >
+     <TextView 
+        android:id="@+id/xinxi_item_title"
+        android:layout_width="960dip"
+        android:layout_height="40dip"
+        android:textSize="30dip"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="140dip"
+        android:background="@drawable/shezhi_item_back"
+        android:layout_marginLeft="163dip"
+        android:text="系统信息"
+        />
+    <TextView
+        android:id="@+id/csw_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="183dip"
+        android:layout_marginTop="10dip"
+        android:text=""
+        android:textColor="#ffffffff"
+        android:textSize="35dip" 
+         android:layout_below="@+id/xinxi_item_title" 
+        />
+    <!-- 定义一个水平进度条 -->
+
+    <ProgressBar
+        android:id="@+id/bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="480dip"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/csw_text"
+        android:layout_below="@+id/csw_text" 
+        android:layout_marginTop="15dip"
+        />
+
+    <TextView
+        android:id="@+id/csw_text2"
+        android:layout_width="750dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bar"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="0dip"
+        android:layout_alignLeft="@+id/bar"
+        android:textColor="#ffffffff"
+        android:textSize="35dip" />
+
+</RelativeLayout>
+</RelativeLayout>

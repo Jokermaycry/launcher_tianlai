@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/set_main_r"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/shezhi_item_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dip"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/shezhi_zuo_logo" />
+
+    <TextView
+        android:id="@+id/shezhi_item_text"
+        android:layout_width="150dip"
+        android:layout_height="45dip"
+        android:layout_alignTop="@id/shezhi_item_image"
+        android:layout_toRightOf="@id/shezhi_item_image"
+        android:text="更多设置"
+        android:textColor="#FFFFFF"
+        android:textSize="35dip" />
+
+    <RelativeLayout
+        android:id="@+id/shezhi_main_r"
+        android:layout_width="1280dip"
+        android:layout_height="696dip"
+        android:layout_centerInParent="true"
+        android:background="@drawable/shezhi_back" >
+
+        <TextView
+            android:id="@+id/shezhi_item_title"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_marginLeft="163dip"
+            android:layout_marginTop="160dip"
+            android:background="@drawable/shezhi_item_back"
+            android:gravity="center_horizontal"
+            android:text="更多设置"
+            android:textSize="30dip" />
+
+        <Button
+            android:id="@+id/but_shezhi_item_3"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@id/shezhi_item_title"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="显示设置"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+
+        <Button
+            android:id="@+id/but_shezhi_item_8"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@id/but_shezhi_item_3"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="路由设置"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+
+        <Button
+            android:id="@+id/but_shezhi_item_9"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@id/but_shezhi_item_8"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="启动设置"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+
+        <!-- <Button
+            android:id="@+id/but_shezhi_item_suo"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@+id/but_shezhi_item_9"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="家长控制"
+            android:textColor="@color/white"
+            android:textSize="30dip" /> -->
+
+        <Button
+            android:id="@+id/but_shezhi_item_7"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@id/but_shezhi_item_9"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="系统信息"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+
+        <Button
+            android:id="@+id/but_shezhi_item_1"
+            android:layout_width="960dip"
+            android:layout_height="60dip"
+            android:layout_below="@id/but_shezhi_item_7"
+            android:layout_marginLeft="163dip"
+            android:background="@drawable/shezhi_item_foces_selector"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dip"
+            android:text="更多设置"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,262 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_1" >
+
+    
+    <!-- android:background="@drawable/music_bg" -->
+     <Button 
+            android:id="@+id/goBackBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:textSize="25dip"
+            android:background="@drawable/music_goback_selector"
+            />
+    
+    <RelativeLayout
+        android:id="@+id/main_rel1"
+        android:layout_width="930dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dip" >
+        <ImageView
+            android:id="@+id/img_music_information"
+            android:layout_width="660dip"
+            android:layout_height="70dip"
+            android:background="@drawable/music_information" />
+
+        <TextView
+            android:id="@+id/txt_music_information"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="42dip"
+            android:layout_marginTop="13dip"
+            android:text="歌曲信息"
+            android:textColor="@color/white"
+            android:textSize="30dip" />
+
+        <ImageView
+            android:id="@+id/music_dynamic"
+            android:layout_width="260dip"
+            android:layout_height="260dip"
+            android:layout_below="@+id/img_music_information"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="20dip"
+            android:background="@drawable/music_icon" />
+
+        <TextView
+            android:id="@+id/music_play_info"
+            android:layout_width="260dip"
+            android:layout_height="28dip"
+            android:layout_below="@+id/music_dynamic"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="15dip"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:text="空闲歌曲"
+            android:textSize="20dip" />
+
+       <!--  <ImageView
+            android:id="@+id/img_music_rhythm_bg"
+            android:layout_width="530dip"
+            android:layout_height="290dip"
+            android:layout_marginLeft="50dip"
+            android:layout_marginTop="100dip"
+            android:layout_toRightOf="@+id/music_dynamic"
+            android:background="@drawable/music_qp" /> -->
+
+        <ImageView
+            android:id="@+id/img_music_rhythm"
+            android:layout_width="600dip"
+            android:layout_height="330dip"
+            android:layout_marginLeft="40dip"
+            android:layout_marginTop="80dip"
+            android:layout_toRightOf="@+id/music_dynamic"
+             />
+        <!-- android:background="@drawable/music_tdqp" -->
+        <LinearLayout
+            android:id="@+id/main_linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/music_play_info"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="50dip"
+            android:orientation="horizontal" >
+            
+             <!--顺序播放-->
+            <Button
+                android:id="@+id/but_return"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_turn_selector" />
+            
+            <!-- 单曲循环 -->
+            <Button
+                android:id="@+id/but_single_cycle"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_singlecycle_selector" />
+            
+          
+           <!-- 随机播放 -->
+            <Button
+                android:id="@+id/but_random_broadcast"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_random_selector" />
+         
+           <!-- 静音-->
+            <Button
+                android:id="@+id/muteBtn"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="530dip"
+                android:background="@drawable/music_volemu_open_selector" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/main_rel2"
+        android:layout_width="wrap_content"
+        android:layout_height="660dip"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/main_rel1"
+        android:background="@drawable/music_lb_bg" >
+
+        <LinearLayout
+            android:id="@+id/main_linear2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dip"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+         <!-- 均衡器 -->
+            <Button
+                android:id="@+id/but_equalizer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_junheng_selector" />
+            <!-- <ImageView 
+                android:layout_width="3dip"
+                android:layout_height="50dip"
+                android:background="@drawable/music_item_x_c"
+                /> -->
+            <!-- 歌曲列表 -->
+            <Button
+                android:id="@+id/but_leibiao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dip"
+                android:background="@drawable/music_list_slelector" />
+        </LinearLayout>
+        <!-- 歌曲列表 -->
+        <ListView
+            android:id="@+id/music_listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/main_linear2"
+            android:layout_marginTop="22dip"
+            android:divider="@drawable/music_item_x_c"
+            android:dividerHeight="1px"
+           
+            >
+        </ListView>
+         <TextView 
+                android:id="@+id/nametv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/main_linear2"
+                android:layout_marginTop="22dip"
+                android:textSize="30dp"
+                android:textColor="@android:color/white"
+                />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/main_rel3"
+        android:layout_width="fill_parent"
+        android:layout_height="107dip"
+        android:layout_below="@+id/main_rel1"
+        android:layout_marginTop="10dip"
+        android:layout_toLeftOf="@+id/main_rel2"
+        android:layout_alignBottom="@+id/main_rel2"
+        android:background="@drawable/music_lb_xz"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <!-- 上一曲-->
+            <Button
+                android:id="@+id/but_up"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_tp_up_selector" />
+           <!-- 播放-->
+            <Button
+                android:id="@+id/but_play"
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_player_selector" />
+           <!-- 下一曲-->
+            <Button
+                android:id="@+id/but_down"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_tp_down_selector" />
+           <!-- 進度條 -->
+            <SeekBar
+                android:id="@+id/music_play_seek"
+                android:layout_width="500dip"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:max="100"
+                android:maxHeight="4dip"
+                android:minHeight="4dip"
+                android:paddingLeft="18px"
+                android:paddingRight="18px"
+                android:progressDrawable="@drawable/seekbar_define_style"
+                android:thumb="@drawable/seekbarbtn_selector" />
+            <!-- 播放时间 -->
+            <TextView
+                android:id="@+id/txt_music_start_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="00:00"
+                android:textColor="@color/white"
+                android:textSize="15dip" />
+            <!-- 斜杠 -->
+            <TextView
+                android:id="@+id/txt_music_xiegan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="/"
+                android:textColor="@color/white"
+                android:textSize="15dip" />
+           <!-- 总时间 -->
+            <TextView
+                android:id="@+id/txt_music_stop_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="00:00"
+                android:textColor="@color/white"
+                android:textSize="15dip" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

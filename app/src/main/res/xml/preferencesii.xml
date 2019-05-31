@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings"
+    android:icon="@drawable/ic_launcher_settings"
+     >
+
+    <PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:summary="@string/auto_p1_value"
+        android:title="@string/auto_p1_title" 
+         android:icon="@drawable/ic_launcher_settings"
+        >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:summaryOn="@string/auto_p1_check_value"
+            android:summaryOff="@string/auto_p1_check_value"
+            android:title="@string/auto_p1_check_title" 
+            android:key="@string/auto_p1_key"
+             android:icon="@drawable/ic_launcher_settings"
+            >
+        </CheckBoxPreference>
+         <ListPreference
+                android:defaultValue="@string/auto_update_frequency_default_value"
+                android:dialogTitle="@string/auto_p1_show"
+                android:entries="@array/list_auto_update_frequency_entry"
+                android:entryValues="@array/auto_update_frequency_value"
+                android:summary="@string/dialog_value"
+                android:title="@string/auto_p1_show" 
+                android:key="@string/auto_p2_key"
+                 android:icon="@drawable/ic_launcher_settings"
+                />
+    </PreferenceScreen>
+    
+    <PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:summary="@string/auto_p2_value"
+        android:title="@string/auto_p2_title" 
+        android:key="@string/auto_p3_key"
+         android:icon="@drawable/ic_launcher_settings"
+        >
+    </PreferenceScreen> 
+</PreferenceScreen>

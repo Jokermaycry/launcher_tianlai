@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wallpaperLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    >
+
+    <RelativeLayout
+        android:id="@+id/wallpaperTitlelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="30dip" >
+
+        <TextView
+            android:id="@+id/wallpaperTitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wallpaperTitleText"
+            android:textColor="#ffffff"
+            android:textSize="30dip" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/wallpaperTitlelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dip" >
+
+        <LinearLayout
+            android:id="@+id/firstRowLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <FrameLayout
+                android:id="@+id/firstWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip"
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/firstWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center" />
+
+                <ImageView
+                    android:id="@+id/firstWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/secondWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dip"
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/secondWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/secondWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/thirdWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip" 
+                android:layout_marginLeft="40dip"
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/thirdWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/thirdWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/secondRowLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/firstRowLayout"
+            android:layout_marginTop="40dip"
+            android:orientation="horizontal" >
+
+            <FrameLayout
+                android:id="@+id/fourthWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip"
+                
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/fourthWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/fourthWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/fifthWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip"
+                
+                android:layout_marginLeft="40dip"
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/fifthWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center" />
+
+                <ImageView
+                    android:id="@+id/fifthWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/sixedWallpaperLayout"
+                android:layout_width="305dip"
+                android:layout_height="175dip"
+                android:layout_marginLeft="40dip"
+                android:background="@drawable/wallpaper_selector"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <ImageView
+                    android:id="@+id/sixedWallpaper_0"
+                    android:layout_width="300dip"
+                    android:layout_height="170dip"
+                    android:layout_gravity="center"/>
+
+                <ImageView
+                    android:id="@+id/sixedWallpaper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/checked_bg"
+                    android:visibility="gone" />
+            </FrameLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

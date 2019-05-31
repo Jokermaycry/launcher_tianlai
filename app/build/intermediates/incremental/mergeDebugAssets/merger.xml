@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\wwm\tianlai\yahao\app\src\main\assets"><file name="databases/butData.db" path="E:\wwm\tianlai\yahao\app\src\main\assets\databases\butData.db"/><file name="databases/main.db" path="E:\wwm\tianlai\yahao\app\src\main\assets\databases\main.db"/></source><source path="E:\wwm\tianlai\yahao\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\wwm\tianlai\yahao\app\src\debug\assets"/></dataSet></merger>

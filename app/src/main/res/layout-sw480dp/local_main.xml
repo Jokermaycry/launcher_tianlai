@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/local_main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="45dip"
+        android:layout_marginRight="10dip" >
+
+        <ImageView
+            android:id="@+id/all_ziyuan_layout"
+            android:layout_width="162dip"
+            android:layout_height="295dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/fileManager_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_marginLeft="15dip"
+            android:layout_marginTop="42dip"
+            android:background="@drawable/wenjianguanliqi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/fileManager_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/wenjianguanli"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/huawei_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/fileManager_ziyuan_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/fileManager_ziyuan_layout"
+            android:background="@drawable/huaweiwangpan"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/fileManager_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/huawei"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/video_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/huawei_ziyuan_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/huawei_ziyuan_layout"
+            android:background="@drawable/shiping"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/video_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/shiping"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/music_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/video_ziyuan_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/video_ziyuan_layout"
+            android:background="@drawable/yingyue"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/music_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/yingyue"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/picture_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/music_ziyuan_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/music_ziyuan_layout"
+            android:background="@drawable/tupian"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/picture_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/tupian"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/installPackage_ziyuan_layout"
+            android:layout_width="144dip"
+            android:layout_height="288dip"
+            android:layout_alignTop="@+id/picture_ziyuan_layout"
+            android:layout_marginLeft="12dip"
+            android:layout_toRightOf="@+id/picture_ziyuan_layout"
+            android:background="@drawable/anzhuangbao"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/installPackage_ziyuan_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="224dip"
+                android:text="@string/install"
+                android:textColor="@color/white"
+                android:textSize="24dip" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

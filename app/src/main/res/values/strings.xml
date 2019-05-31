@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="auto_add">自动选择</string>
+    <string name="locale_city">定位当前城市</string>
+    <string name="head_add">手动选择</string>
+    <string name="action_settings">Settings</string>
+    <string name="filter_hint">输入城市名称</string>
+    <string name="set_city">设置城市</string>
+    <string name="app_name">tianlai_youyang</string>
+    <string name="change_city">设置城市</string>
+    <string name="update_weather">更新天气</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="wallpaper_text01">青色小路</string>
+    <string name="wallpaper_text02">夕日晚霞</string>
+    <string name="wallpaper_text03">深色海洋</string>
+    <string name="wallpaper_text04">魔幻古堡</string>
+    <string name="soft_down_info">需要下载该应用吗？</string>
+    <string name="soft_downting">正在下载</string>
+
+    <array name="choice">
+        <item name="start">启动程序</item>
+        <item name="detail">详细信息</item>
+        <item name="uninstall">卸载程序</item>
+    </array>
+    <array name="settings">
+        <item name="start">系统设置</item>
+        <item name="setting">应用分类设置</item>
+    </array>
+
+    <string name="elebao">儿童乐园</string>
+    <string name="game">游戏</string>
+    <string name="soft">常用软件</string>
+    <string name="showDb">显示数据库</string>
+    <string name="videobtn">我的影音</string>
+    <string name="hiddenbtn">隐藏</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">更新提示</string>
+    <string name="soft_update_info">检测到有最新版本，是否更新到最新版本？</string>
+    <string name="soft_update_updatebtn">是</string>
+    <string name="soft_update_later">否</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+
+    <!-- 统设置界面需要要到的字符串 -->
+    <string name="dialog_show_title"></string>
+    <string name="dialog_value"></string>
+    <string name="auto_p1_title">屏幕适配</string>
+    <string name="auto_p1_value">用于调整部分游戏的屏幕显示尺寸</string>
+    <string name="auto_p1_show">显示模式</string>
+    <string name="auto_p1_check_value">当前分辨率：1280 * 720</string>
+    <string name="auto_p1_check_title">启用屏幕适配</string>
+    <string name="auto_p2_title">屏幕切边</string>
+    <string name="auto_p2_value">调整屏幕大小</string>
+    <string name="auto_p2_show"></string>
+    <string name="auto_p1_key">this_ok_pa</string>
+    <string name="auto_p2_key">this_ok_pb</string>
+    <string name="auto_p3_key">this_ok_pc</string>
+    <string name="system_settings">系统设置</string>
+    <string name="auto_update_setting">自动更新设置</string>
+    <string name="auto_update_switch_title">自动更新</string>
+    <string name="auto_update_switch_key">auto_update_switch</string>
+    <string name="auto_update_switch_summary_on">开启自动更新</string>
+    <string name="auto_update_switch_summary_off">关闭自动更新</string>
+    <string name="auto_update_frequency_title">更新频率</string>
+    <string name="auto_update_frequency_key">auto_update_frequency</string>
+    <string name="auto_update_frequency_default_value">10</string>
+    <string name="auto_update_frequency_summary">设置自动更新的时间周期</string>
+    <string name="cancel">取消</string>
+    <string name="queding">确定</string>
+<string name="image_url">http://112.124.43.99/images/input_del.png</string>
+
+<string name="wallpaperTitleText">壁纸设置</string>
+
+
+
+
+<!-- 资源管理 -->
+<string name="dianyingText">电影</string>
+<string name="dianshijuText">电视剧</string>
+<string name="zongyiText">综艺</string>
+<string name="dongmanText">动漫</string>
+<string name="moredianboText">更多点播</string>
+<string name="sousuoText">搜索</string>
+<string name="bofanglishiText">播放历史</string>
+
+<!-- 网络直播 -->
+<string name="tianjiakuaijieText">添加快捷</string>
+<string name="zhibotuijianText">直播推荐</string>
+
+<!-- 游戏娱乐 -->
+<string name="gameadd">添加快捷</string>
+<string name="gametuijian">游戏推荐</string>
+
+<!-- 资源管理 -->
+<string name="wenjianguanli">文件管理器</string>
+<string name="huawei">云盘</string>
+<string name="shiping">视频</string>
+<string name="yingyue">音乐</string>
+<string name="install">安装包</string>
+<string name="tupian">图片</string>
+<!-- 全部应用 -->
+<string name="allappText">全部应用</string>
+<string name="kuaijieText">添加快捷</string>
+<string name="tuijianyingyongText">推荐应用</string>
+
+<!-- 系统设置 -->
+<string name="wangluoshezhiText">网络设置</string>
+<string name="yonghuzhongxinText">用户中心</string>
+<string name="gengduoshezhiText">更多设置</string>
+<string name="duopinghudongText">苹果社区</string>
+<string name="tianqixiugaiText">天气修改</string>
+<string name="yijianqingliText">一键清理</string>
+<string name="shengjizhongxinText">升级中心</string>
+<string name="xitongchongqiText">系统重启</string>
+<string name="soft_update_true">确定</string>
+
+<!-- 音乐 -->
+<string name="music_fragment_music">音乐</string>
+<string name="music_fragment_netFM">网络电台</string>
+<string name="music_fragment_timeSet">定时设置</string>
+<string name="music_fragment_dreamSet">屏保设置</string>
+<string name="music_fragment_audioOutput">音源切换</string>
+<string name="music_fragment_mobileHelp">手机助手</string>
+<string name="music_fragment_addQuickly">添加快捷</string>
+
+
+
+    <string name="sd">本地</string>
+    <string name="usb">USB</string>
+    <string name="external_sd">SD卡</string>
+    
+    <string name="NormalModel_Btn">自然</string>
+    <string name="ClassicalModel_Btn">古典</string>
+    <string name="HipHopModel_Btn">Hip Hop</string>
+    <string name="JazzModel_Btn">爵士</string>
+    <string name="PopModel_Btn">Pop</string>
+    <string name="RockModel_Btn">摇滚</string>
+    <string name="HeavyMetalModel_Btn">重低音</string>
+
+
+
+
+   
+ <!-- $_rbox_$_modify_$_zhengyang: added for screen settings -->
+    <!-- Screen settings -->
+    <!-- Screen settings screen, section header for settings related to display output screen -->
+    <string name="screen_settings">屏幕设置</string>
+    <string name="screen_interface">显示输出接口</string>
+    <string name="screen_iface_lcd_title">LCD</string>
+    <string name="screen_iface_hdmi_title">HDMI</string>
+    <string name="screen_iface_vga_title">VGA</string>
+    <string name="screen_iface_ypbpr_title">YPbPr</string>
+    <string name="screen_iface_tv_title">TV</string>
+    <string name="screen_mode_title">输出模式</string>
+    <string name="screen_mode_switch_title">您要保存此屏幕显示设置吗?</string>
+    <string name="screen_control_ok_title">保存</string>
+    <string name="screen_control_cancel_title">还原</string>
+   
+    
+    
+    <string name="display_settings" msgid="7965901687241669598">"显示"</string>
+     <!-- 后面优化显示设置界面加的 -->
+        <string name="display_settings_title_hou">显示</string>
+        <string name="summary_font_size" translatable="false">%1$s</string>
+        <string name="help_label">"帮助"</string>
+        <string name="lock_settings_picker_title">"选择屏幕锁定方式"</string>
+       <string name="global_change_warning"  >"此设置会影响这台设备上的所有用户。"</string>
+
+
+
+
+
+</resources>

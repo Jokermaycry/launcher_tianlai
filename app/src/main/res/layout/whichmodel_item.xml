@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/blue"
+    android:gravity="center">
+    
+    
+    <!-- NormalModel_Btn;//normal
+		ClassicalModel_Btn;
+		HipHopModel_Btn;
+		JazzModel_Btn;
+		PopModel_Btn;
+		RockModel_Btn;
+		HeavyMetalModel_Btn; -->
+     <Button
+        android:id="@+id/normalModelBtn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:text="@string/NormalModel_Btn" 
+        android:textColor="@color/white"
+        android:background="@drawable/button_item_selector"
+        />
+   <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/ClassicalModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/ClassicalModel_Btn" />
+  <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/HipHopModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/HipHopModel_Btn" />
+    <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/JazzModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/JazzModel_Btn" />
+     <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/PopModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/PopModel_Btn" />
+    <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/RockModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/RockModel_Btn" />
+   <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      />
+     <Button
+        android:id="@+id/HeavyMetalModel_Btn"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:textColor="@color/white"
+          android:background="@drawable/button_item_selector"
+        android:text="@string/HeavyMetalModel_Btn" />
+     
+      <View 
+      android:layout_width="100dip"
+      android:layout_height="1dp"
+       android:background="@drawable/music_item_x_c"
+      /> 
+       
+
+</LinearLayout>

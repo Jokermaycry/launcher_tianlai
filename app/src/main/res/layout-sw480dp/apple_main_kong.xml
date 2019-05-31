@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity" >
+<ImageView 
+    android:id="@+id/shezhi_item_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shezhi_zuo_logo"
+    android:layout_marginLeft="40dip"
+    android:layout_marginTop="20dip"
+    />
+<TextView 
+    android:id="@+id/user_item_text"
+    android:layout_width="150dip"
+    android:layout_height="45dip"
+    android:textSize="35dip"
+    android:textStyle="italic"
+    android:layout_alignTop="@+id/shezhi_item_image"
+    android:layout_toRightOf="@+id/shezhi_item_image"
+    android:text="苹果社区"
+    />
+<RelativeLayout 
+    android:layout_width="1024dip"
+    android:layout_height="496dip"
+    android:background="@drawable/shezhi_back"
+    android:layout_centerInParent="true"
+    >
+    <TextView 
+        android:id="@+id/user_item_title"
+        android:layout_width="768dip"
+        android:layout_height="48dip"
+        android:textSize="24sp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="144dip"
+        android:background="@drawable/shezhi_item_back"
+        android:layout_marginLeft="130dip"
+        android:text="苹果社区"
+        />
+     <TextView
+        android:id="@+id/but_user_phone"
+        android:layout_width="768dip"
+        android:layout_height="48dip"
+        android:layout_below="@+id/user_item_title"
+        android:background="@drawable/shezhi_item_foces_selector"
+        android:layout_marginLeft="130dip"
+        android:paddingLeft="80dip"
+        android:gravity="center_vertical"
+        android:text="暂未开放，敬请期待！ "
+        android:textSize="24sp"
+         />
+   </RelativeLayout> 
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="fill_parent">  
+    <TextView 
+        android:id="@+id/wanglu_app_sum"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
+        android:text="全部应用"
+        android:textSize="40dip"
+        android:layout_marginLeft="40dip"
+        android:layout_marginTop="20dip"
+        />
+    <LinearLayout
+        android:id="@+id/wanglu_app_item_l1"
+        android:layout_width="wrap_content"
+        android:layout_height="590dip"
+        android:orientation="horizontal"
+        android:layout_below="@+id/wanglu_app_sum"
+        >
+        <android.support.v4.view.ViewPager 
+                android:id="@+id/wanglu_app_item_viewPager"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                 />
+        
+    </LinearLayout>
+      <TextView 
+        android:id="@+id/wanglu_app_pages_sum"
+        android:layout_width="wrap_content"
+        android:layout_height="50dip"
+        android:text=""
+        android:textSize="40dip"
+        android:layout_below="@+id/wanglu_app_item_l1"
+        android:layout_centerHorizontal="true"
+        />
+    
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+	 	android:layout_height="90dip">
+	 	 
+<RelativeLayout 
+	    android:layout_width="130dip"  
+		android:layout_height="163dip"
+	    android:layout_marginLeft="30dip"
+	    android:layout_marginTop="25dip">
+		
+	<ImageView 
+	    android:id="@+id/quanbuyingyong_imgApp" 
+	    android:layout_width="100dip"
+		android:layout_height="100dip" 
+		android:layout_centerHorizontal="true">
+	</ImageView>
+	
+
+		
+		<TextView 
+		    android:id="@+id/quanbuyingyong_tvLabel" 
+		    android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:text="">
+		</TextView>
+		
+		<TextView 
+		    android:id="@+id/quanbuyingyong_tvAppLabel" 
+		    android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dip" 
+			android:text="Label" 
+			android:textColor="#ffffff"
+			android:textSize="20dip"
+			android:layout_below="@+id/quanbuyingyong_imgApp"
+			android:layout_centerHorizontal="true"
+			>
+		    
+		</TextView>
+
+	</RelativeLayout>
+	
+</LinearLayout>

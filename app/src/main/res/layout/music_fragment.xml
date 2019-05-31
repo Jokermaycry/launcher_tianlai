@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="wrap_content"  
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    >  
+    
+    <RelativeLayout 
+        android:id="@+id/music_all_app_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="10dip"
+        >
+          <ImageView
+            android:id="@+id/music_scoll_all_layout"
+            android:layout_width="198dip"
+            android:layout_height="363dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" />
+       
+        <!--音乐 -->
+          <FrameLayout
+                android:id="@+id/music_but_all_app"
+                android:layout_width="180dip"
+                android:layout_height="360dip"
+                android:layout_marginTop="52dip"
+                 android:layout_marginLeft="19dip"
+                android:background="@drawable/music_music"
+                android:clickable="true"
+                android:focusable="true" >
+
+                <TextView
+                    android:id="@+id/music_allapp_allapp_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="290dip"
+                    android:textColor="@color/white"
+                    android:text="@string/music_fragment_music"
+                    android:textSize="30dip" />
+            </FrameLayout>
+            <ImageView
+            android:id="@+id/music_scoll_allxiao_layout"
+            android:layout_width="198dip"
+            android:layout_height="176dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" 
+            />
+        <!--添加快捷、网络电台 -->
+              
+            <FrameLayout
+                android:id="@+id/music_but_all_kuaijie"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                android:layout_toRightOf="@+id/music_but_all_app"
+                android:layout_marginTop="52dip"
+                android:background="@drawable/music_add"
+                android:clickable="true"
+                android:focusable="true"
+                 android:layout_marginLeft="15dip"
+                 >
+
+                <TextView
+                    android:id="@+id/music_allapp_kuaijie_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/kuaijieText"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" 
+                    />
+            </FrameLayout>
+            
+            <FrameLayout
+                android:id="@+id/music_but_all_diantai"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                android:layout_toRightOf="@+id/music_but_all_app"
+                android:background="@drawable/music_netfm"
+                android:layout_below="@+id/music_but_all_kuaijie"
+                android:clickable="true"
+                android:focusable="true" 
+                 android:layout_marginLeft="15dip"
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_diantai_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/music_fragment_netFM"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+        <!--待添加 -->
+        
+         <!--  推荐 -->
+         <FrameLayout
+                android:id="@+id/music_but_all_tuijian"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                android:layout_marginTop="52dip"
+                
+                android:layout_toRightOf="@+id/music_but_all_diantai"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/tuijian_app_image"
+                android:clickable="true"
+                android:focusable="true" 
+                 
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_tuijian_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/tuijianyingyongText"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+        
+        
+        <!-- <LinearLayout 
+            android:id="@+id/music_l_all_1"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            android:layout_marginTop="52dip"
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_toRightOf="@+id/but_all_kuaijie"
+            android:layout_marginLeft="15dip"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_1_image"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_1_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                android:textColor="@color/white"
+                />
+            
+        </LinearLayout> -->
+        <!--快捷1 -->
+        <LinearLayout 
+            android:id="@+id/music_l_all_2"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dip"
+            android:gravity="center"
+             android:layout_toRightOf="@+id/music_but_all_tuijian"
+             android:layout_alignTop="@+id/music_but_all_tuijian"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_2_image"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_2_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        <!--快捷2 -->
+        <LinearLayout 
+            android:id="@+id/music_l_all_3"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dip"
+            android:gravity="center"
+             android:layout_toRightOf="@+id/music_l_all_2"
+             android:layout_alignTop="@+id/music_l_all_2"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_3_image"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_3_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        <!--快捷3 -->
+        <LinearLayout 
+            android:id="@+id/music_l_all_4"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dip"
+            android:gravity="center"
+             
+             android:layout_toRightOf="@+id/music_l_all_3"
+             android:layout_alignTop="@+id/music_l_all_3"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_4_image"
+                 android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_4_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        
+        <!-- 定时设置 -->
+        
+         <FrameLayout
+                android:id="@+id/music_but_all_dingshi"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                
+                android:layout_below="@+id/music_but_all_tuijian"
+                android:layout_toRightOf="@+id/music_but_all_diantai"
+                
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_dingshi"
+                android:clickable="true"
+                android:focusable="true" 
+                 
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_dingshi_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/music_fragment_timeSet"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+            
+         <!-- 屏保设置 -->
+         
+         <FrameLayout
+                android:id="@+id/music_but_all_dream"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                
+                android:layout_below="@+id/music_l_all_2"
+                android:layout_toRightOf="@+id/music_but_all_dingshi"
+                android:layout_alignTop="@+id/music_but_all_dingshi"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_pingbao"
+                android:clickable="true"
+                android:focusable="true" 
+                 
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_dream_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/music_fragment_dreamSet"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+            
+         <!-- 音源切换 -->
+        
+        <FrameLayout
+                android:id="@+id/music_but_all_yinyuan"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                
+                android:layout_below="@+id/music_l_all_3"
+                android:layout_toRightOf="@+id/music_but_all_dream"
+                android:layout_alignTop="@+id/music_but_all_dream"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/music_yinyuan"
+                android:clickable="true"
+                android:focusable="true" 
+                 
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_yinyuan_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/music_fragment_audioOutput"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+        
+         <!-- 手机助手 -->
+        
+        <FrameLayout
+                android:id="@+id/music_but_all_mobilehelp"
+                android:layout_width="180dip"
+                android:layout_height="180dip"
+                
+                android:layout_below="@+id/music_l_all_4"
+                android:layout_toRightOf="@+id/music_but_all_yinyuan"
+                android:layout_alignTop="@+id/music_but_all_yinyuan"
+                android:layout_marginLeft="15dip"
+                android:background="@drawable/tuijian_app_image"
+                android:clickable="true"
+                android:focusable="true" 
+                 
+                >
+
+                <TextView
+                    android:id="@+id/music_allapp_mobilehelp_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="110dip"
+                    android:text="@string/music_fragment_mobileHelp"
+                    android:textColor="@color/white"
+                    android:textSize="30dip" />
+            </FrameLayout>
+        
+        
+       <!--  <LinearLayout 
+            android:id="@+id/music_l_all_5"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            
+            android:gravity="center"
+            
+             android:layout_marginTop="24dip"
+             android:layout_below="@+id/l_all_1"
+             android:layout_alignRight="@+id/l_all_1"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_5_image"
+                 android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_5_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        <LinearLayout 
+            android:id="@+id/music_l_all_6"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dip"
+            android:gravity="center"
+             
+             android:layout_marginTop="24dip"
+             android:layout_below="@+id/l_all_2"
+             android:layout_alignRight="@+id/l_all_2"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_6_image"
+               android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_6_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        <LinearLayout 
+            android:id="@+id/music_l_all_7"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dip"
+            android:gravity="center"
+             android:layout_marginTop="24dip"
+             android:layout_below="@+id/l_all_3"
+             android:layout_alignRight="@+id/l_all_3"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_7_image"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_7_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout>
+        <LinearLayout 
+            android:id="@+id/music_l_all_8"
+            android:layout_width="180dip"
+            android:layout_height="156dip"
+            android:background="@drawable/all_app_item_image01"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:gravity="center"
+             android:layout_marginTop="24dip"
+             android:layout_below="@+id/l_all_4"
+             android:layout_alignLeft="@+id/l_all_4"
+            >
+            <ImageView 
+                android:id="@+id/music_l_all_8_image"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                android:layout_marginTop="10dip"
+                />
+            <TextView 
+                android:id="@+id/music_l_all_8_text"
+                android:layout_width="180dip"
+                android:layout_height="40dip"
+                android:textSize="24dip"
+                android:ellipsize="marquee"
+                android:gravity="center_horizontal"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:layout_marginTop="25dip"
+                  android:textColor="@color/white"
+                />
+            
+        </LinearLayout> -->
+    </RelativeLayout>
+</RelativeLayout>

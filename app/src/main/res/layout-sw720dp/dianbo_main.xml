@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center_horizontal"
+      >
+
+    <RelativeLayout
+        android:id="@+id/dianbo_main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="10dip"
+        >
+
+        <!-- 电影 -->
+
+        <ImageView
+            android:id="@+id/scoll_dianbo_layout"
+            android:layout_width="198dip"
+            android:layout_height="363dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/dianying_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="360dip"
+            android:layout_marginLeft="19dip"
+            android:layout_marginTop="52dip"
+            android:background="@drawable/dianying"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_dianying_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="290dip"
+                android:text="@string/dianyingText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+
+        <!-- 电视剧 -->
+
+        <FrameLayout
+            android:id="@+id/dianshiju_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="360dip"
+            android:layout_alignTop="@+id/dianying_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/dianying_dianbo_layout"
+            android:background="@drawable/dianshiju"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_dianshiju_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="290dip"
+                android:text="@string/dianshijuText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+
+        <!-- 综艺 -->
+
+        <FrameLayout
+            android:id="@+id/zongyi_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="360dip"
+            android:layout_alignTop="@+id/dianshiju_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/dianshiju_dianbo_layout"
+            android:background="@drawable/zhongyi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_zongyi_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="290dip"
+                android:text="@string/zongyiText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+        <!-- 动漫 -->
+
+        <FrameLayout
+            android:id="@+id/dongman_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="360dip"
+            android:layout_alignTop="@+id/zongyi_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/zongyi_dianbo_layout"
+            android:background="@drawable/dongman"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_dongman_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="290dip"
+                android:text="@string/dongmanText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+
+        <!-- 更多点播 -->
+
+        <FrameLayout
+            android:id="@+id/more_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="360dip"
+            android:layout_alignTop="@+id/dongman_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/dongman_dianbo_layout"
+            android:background="@drawable/wodedianbo"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_dongman_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="290dip"
+                android:text="@string/moredianboText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+
+         <ImageView
+            android:id="@+id/scoll_dianboxiao_layout"
+            android:layout_width="198dip"
+            android:layout_height="176dip"
+            android:layout_marginLeft="15dip"
+            android:background="@drawable/shape"
+            android:visibility="gone" 
+            android:layout_alignTop="@+id/more_dianbo_layout"
+            android:layout_toRightOf="@+id/more_dianbo_layout"
+            />
+        <!-- 搜索、播放历史 -->
+
+        <FrameLayout
+            android:id="@+id/shousuo_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="180dip"
+            android:layout_alignTop="@+id/more_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/more_dianbo_layout"
+            android:background="@drawable/sousu"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_soushuo_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="110dip"
+                android:text="@string/sousuoText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/history_dianbo_layout"
+            android:layout_width="180dip"
+            android:layout_height="180dip"
+            android:layout_below="@+id/shousuo_dianbo_layout"
+            android:layout_marginLeft="15dip"
+            android:layout_toRightOf="@+id/more_dianbo_layout"
+            android:background="@drawable/dianbo_bofanglishi"
+            android:clickable="true"
+            android:focusable="true" >
+
+            <TextView
+                android:id="@+id/dianbo_history_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="110dip"
+                android:text="@string/bofanglishiText"
+                android:textColor="@color/white"
+                android:textSize="30dip" />
+        </FrameLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
